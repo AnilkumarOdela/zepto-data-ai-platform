@@ -1,0 +1,20 @@
+# Data Pipeline
+requests
+beautifulsoup4
+pandas
+
+# Analytics
+numpy
+seaborn
+matplotlib
+scikit-learn
+imbalanced-learn
+joblib
+
+# Support Assistant
+sentence-transformers
+chromadb
+langgraph
+fastapi
+uvicorn
+pydantic
