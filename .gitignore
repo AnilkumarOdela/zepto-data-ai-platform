@@ -28,3 +28,6 @@ Thumbs.db
 
 # Generated files
 *.db
+
+support_assistant/chroma_db/
+support_assistant_package.zip
